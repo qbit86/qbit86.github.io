@@ -1,0 +1,7 @@
+*   text=auto
+
+/docs/* binary
+
+.editorconfig   text
+.gitattributes  text
+.gitignore  text
